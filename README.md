@@ -22,11 +22,12 @@ A simple yet robust bash script to turn your Linux machine into a Wi‑Fi hotspo
 
 1. **Download the script**  
    ```bash
-   curl -O https://github.com/eyasuasegid/linux-hotspot
+   git clone https://github.com/eyasuasegid/linux-hotspot.git
    ```
 
 2. **Make it executable**  
    ```bash
+   cd linux-hotspot
    chmod +x hotspot
    ```
 
